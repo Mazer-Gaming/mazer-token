@@ -1,0 +1,27 @@
+{
+  "name": "mazer",
+  "version": "1.0.0",
+  "description": "Mazer Gaming Token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "esports",
+    "mazer gaming",
+    "smart contracts"
+
+  ],
+  "author": "NicoFGC",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/test-helpers": "^0.5.6",
+    "truffle": "^5.1.41",
+    "truffle-flattener": "^1.4.4",
+    "zeppelin-solidity": "^1.12.0"
+  }
+}
